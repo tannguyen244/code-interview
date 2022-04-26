@@ -1,0 +1,12 @@
+[
+    {
+     "Organisation":"coreos",
+     "Repository":"hyperkube",
+     "Tag":"v1.8.11_coreos.0"
+    },
+    {
+     "Organisation":"coreos",
+     "Repository":"dnsmasq",
+     "Tag":"v0.3.0"
+    }
+  ]
